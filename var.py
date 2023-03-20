@@ -1,0 +1,16 @@
+name="varshini"
+age="20"
+print("From,")
+print("  "+name)
+print("  Thoothukudi.")
+print("Respected sir",)
+print("  As I am suffering from fever, so i am anable to atten the class please grand me leave for 2 days.")
+print("                                           Thanking you")
+print("                                               "+name)
+print("My\n name\n is\n priya")
+print("my name is priya".upper())
+print("my age is 20".lower())
+print("my name is priya".isupper())
+print("my name is priya".upper().isupper())
+print("my name is "+name.capitalize())
+print("\"my age\" is "+age.title())

@@ -1,0 +1,7 @@
+print("From,")
+print("  <priya>")
+print("  Thoothukudi.")
+print("Respected sir",)
+print("  As I am suffering from fever, so i am anable to atten the class please grand me leave for 2 days.")
+print("                                           Thanking you")
+print("                                               Priya")
