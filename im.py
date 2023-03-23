@@ -1,0 +1,10 @@
+import ope
+print("Welcome to the program:")
+a=float(input("Enter the value of a :"))
+b=float(input("Enter the value of b :"))
+print("My addtion value is :"+str(ope.add(a,b)))
+print("my sub value is :"+str(ope.sub(a,b)))
+print("My mult value is :"+str(ope.mult(a,b)))
+print("My div value is :"+str(round(ope.div(a,b),2)))
+print("My quo value is :"+str(ope.quo(a,b)))
+print("My rem value is :"+str(ope.rem(a,b)))
