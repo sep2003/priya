@@ -1,0 +1,10 @@
+def rec(length,breath):
+    return length*breath
+def sqr(a):
+    return a*a
+def tri(base,height):
+    return 1/2*base*height
+def cir(radius):
+    return 3.14*radius*radius
+def cub(a):
+    return 6*a*a 
