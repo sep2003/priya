@@ -1,7 +1,8 @@
 import spe 
 print("\t\t My python shape calculator:\t\t")
 print("\t\t\t Welcome \t\t\t")
-print(" 1.Area of Rectangle\n","2.Area of Square\n","3.Area of Triangle\n","4.Area of Circle\n","5.Area of Cube")
+print(" 1.Area of Rectangle\n","2.Area of Square\n","3.Area of Triangle\n",
+      "4.Area of Circle\n","5.Area of Cube")
 choice=input("Enter your choice[1,2,3,4,5]:")
 
 if choice in ["1","2","3","4","5"]:
