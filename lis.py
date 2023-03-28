@@ -13,3 +13,4 @@ if len(list[3])>2:
     if (list[3][0]==list[3][-1]):
         count=count+1
 print(count)
+
