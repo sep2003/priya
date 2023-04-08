@@ -1,0 +1,20 @@
+{
+   "patient_details": [
+      {
+         "patient_name": "priya",
+         "patient_age": "20",
+         "patient_add": "tuty"
+      },
+      {
+         "patient_name": "varshini",
+         "patient_age": "40",
+         "patient_add": "chennai"
+      },
+      {
+         "patient_name": "siva",
+         "patient_age": "30",
+         "patient_add": "tuty"
+      }
+    
+   ]
+}
