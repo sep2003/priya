@@ -1,0 +1,22 @@
+{
+    "student_details": [
+        {
+            "name": "priya",
+            "age": "20",
+            "course": "python",
+            "duration": " 1 month"
+        },
+        {
+            "name": "vashini",
+            "age": "20",
+            "course": "python",
+            "duration": "1 month"
+        },
+        {
+            "name": "siva",
+            "age": "20",
+            "course": "python",
+            "duration": "1 month"
+        }
+    ]
+}
