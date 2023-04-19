@@ -1,0 +1,15 @@
+{
+   "student_data": [
+      {
+         "name": "priya",
+         "age": "20",
+         "duration": "1 month"
+      },
+      {
+         "name": "w",
+         "age": "2",
+         "duration": "3",
+         "Name": "varshini"
+      }
+   ]
+}
